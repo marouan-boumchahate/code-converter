@@ -2,8 +2,6 @@
 
 A powerful AI-powered tool that converts code between different programming languages with high performance optimizations. Built with OpenAI's GPT-4o and featuring a sleek Gradio interface.
 
-![Code Converter Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=Code+Converter+Interface)
-
 ## ✨ Features
 
 - **Multi-language Support**: Convert between Python, JavaScript, C++, C#, Java, and Rust
